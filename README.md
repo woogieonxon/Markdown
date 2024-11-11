@@ -1,5 +1,4 @@
 # Markdown
-
 ## Markdown이란?
 
 2004년에 존 그루버(John Gruber)와 애런 스워츠(Aaron Swartz)가 만든 마크업 언어의 하나로,  

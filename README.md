@@ -33,16 +33,18 @@
 마크다운 편집모드에서는 빈 줄을 여러 번 입력해도 한 줄만 적용된다.
 
 ### 1. 줄 나눔 (soft breaks) : 각 줄의 끝에 2번의 공백을 넣기
+```
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
-
+```
 ### 2. 리스트 내에서 단락을 포맷 : 줄 나눔을 사용하여 하위 단락 구성
-
+```
 1. Crack three eggs over a bowl.  
 Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
 If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+```
